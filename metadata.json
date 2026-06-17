@@ -1,0 +1,6 @@
+{
+  "name": "Lunara Library",
+  "description": "A premium Bookstore & Stationery Shopping experience with a magical day-and-night theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
